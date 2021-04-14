@@ -2,11 +2,17 @@
 
 ## 概要 Description
 PDFファイルを読んで文字をテキストファイルに出力します。  
+Read a PDF file and output characters to a text file.  
 
 ## 特徴 Features
-ページのヘッダーやフッターを抽出の対象から除けます。  
-ページを指定して抽出できます。 
-2段組みの文書でも抽出できます。  
+
+- ページのヘッダーやフッターを抽出の対象から除けます。  
+- ページを指定して抽出できます。 
+- 2段組みの文書でも抽出できます。  
+
+- Exclude page headers and footers from extraction.  
+- You can specify the page to extract.  
+- You can also extract even a two-tiered document.  
 
 ## 依存関係 Requirement
 
