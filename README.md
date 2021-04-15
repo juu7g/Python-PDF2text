@@ -48,5 +48,3 @@ juu7g
 This software is released under the MIT License, see LICENSE.txt.
 （このソフトウェアは、MITライセンスのもとで公開されています。LICENSE.txtを堪忍してください。） 
 
-## References
-参考にした情報源（サイト・論文）などの情報、リンク
