@@ -41,6 +41,10 @@ optional arguments:
 
 - pip install pdfminer.six
 
+## プログラムの説明サイト Program description site
+
+[PDFからテキストを抽出(プログラム)【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/PDF/program)  
+
 ## 作者 Authors
 juu7g
 
